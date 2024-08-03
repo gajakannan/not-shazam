@@ -1,4 +1,4 @@
-<h1 align="center">NotShazam :musical_note:</h1>
+<h1 align="center">NotMyShazam :musical_note:</h1>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1I2esH2U4DtXHsNgYbUi4OL-ukV5i_1PI/view">
